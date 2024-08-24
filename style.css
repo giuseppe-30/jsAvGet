@@ -1,0 +1,15 @@
+.borderRed{
+    border: solid 1px red;
+}
+.style_Btn{
+    width: 100px;
+    height: 30px;
+}
+.styleCard{
+    box-shadow: 10px 10px 8px 10px #888888;
+    transition: transform 1s ease-in-out;
+}
+
+.styleCard:hover{
+    transform: scale(0.9)
+}
